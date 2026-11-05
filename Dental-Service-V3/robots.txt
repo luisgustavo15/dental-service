@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://drjocelio.com.br/sitemap.xml
